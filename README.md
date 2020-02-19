@@ -43,5 +43,5 @@ The included Xcode project:
 - compiles with Swift 5.1
 - uses Swift package manager, to pull in the dependencies:
   - Lasso
-  - WWLayout
+  - [WWLayout](https://github.com/ww-tech/wwlayout)
 
