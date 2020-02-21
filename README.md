@@ -42,6 +42,6 @@ The included Xcode project:
 - requires Xcode 11.3
 - compiles with Swift 5.1
 - uses Swift package manager, to pull in the dependencies:
-  - Lasso
+  - [Lasso](https://github.com/ww-tech/lasso)
   - [WWLayout](https://github.com/ww-tech/wwlayout)
 
